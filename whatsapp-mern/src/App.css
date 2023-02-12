@@ -1,0 +1,21 @@
+.App{
+  display: grid;
+  background-color: #dadbd3;
+  place-items: center;
+  margin: auto;
+  height: 100vh;
+  background: linear-gradient(180deg, rgb(50, 177, 125) 20%, rgb(223, 223, 223) 20%);
+}
+.App_body{
+  background-color: #ededed;
+  height: 90vh;
+  width: 95vw;
+  box-shadow: -1px 4px 20px -6px rgba(0,0,0,0.75);
+  display: flex;
+}
+.Sidebar{
+  width:35%
+}
+.Chat{
+  width: 65%;
+}

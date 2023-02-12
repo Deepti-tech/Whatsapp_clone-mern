@@ -1,0 +1,21 @@
+.Sidebar{
+    background-color: white;
+    border-right: 1px solid lightgray;
+    display: flex;
+    flex-direction: column;
+}
+.Header{
+    background-color: rgb(240, 237, 237);
+    margin-top: 0vh;
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Searchbar{
+    justify-content: center;
+    align-content: center;
+}
+.Contacts{
+    overflow-y: scroll;
+    overflow-x: hidden;
+}

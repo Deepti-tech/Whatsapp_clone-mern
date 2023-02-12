@@ -1,0 +1,29 @@
+.Message_sent{
+    position: relative;
+    background-color: rgb(209, 244, 196);
+    width: fit-content;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: auto;
+}
+.Message_received{
+    position: relative;
+    background-color: white;
+    width: fit-content;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 0px;
+}
+.timestamp{
+    margin-left: 10px;
+    font-size: x-small;
+}
+
+.Chat_name{
+    position: absolute;
+    top: 0px;
+    font-weight: 500;
+    font-size: small; 
+}
